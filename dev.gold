@@ -1,0 +1,1000 @@
+1824	receives notification of a chart progress event .
+409	swaps the bytes of the given numeric in place .
+4506	returns the modification change type having the specified integer value as defined in rfc 45 11 section 4 . 6 .
+4012	allocates / reserv ates memory : a specified block size in bytes , multiplied by a given number of blocks . currently does not check whether the starting address is a multiple of the requested size , e . g . it is perfectly possible that a 4 - byte block will start at address 3
+3657	collects / processes binding attributes from the node , and then removes them from the node .
+2286	return a list of element objects that are children of the given documentfragment
+1679	gets project name from uri .
+1424	reduce impact levels by all controls applied to this asset .
+6912	function . prototype . apply and function . prototype . call see ecma 15 . 3 . 4 . [ 34 ]
+520	find the ' middle snake ' of a diff , split the problem in two and return the recursively constructed diff . see my ers 19 86 paper : an o ( nd ) difference algorithm and its variations .
+488	adds a single field to the end of this input .
+1535	this method has to return a unique integer for each well - known lower - cased attribute name .
+3582	return the rendering of the value expr object
+3811	add a file extension to this file filter .
+8279	attempts to prepare the request for a retry . if there are no more attempts remaining in the request ' s retry policy , a timeout exception is thrown .
+434	partitions string in fixed size chunks .
+3257	check if uri represents local file
+6873	fires a property change of an integer property with the given name . if the old value and the new value are not null and equal the event will not be fired .
+3611	initialize state with defaults .
+7359	returns the length of the common prefix between s1 and s2 .
+4557	check whether line starts with object declaration .
+106	calculate the bounds for a view ' s title
+2615	record events for the given sequence of nodes
+6924	overrides org . xml . sax . helpers . defaulthandler characters ( char [ ] , int , int )
+5574	creates empty packet which will be filled in parser .
+4552	stop monitoring off - heap usage .
+2547	presents the querybuilder in a human readable format . note : this function is not performant and should only be used for debugging purposes .
+3527	saves the instance identifier of this security server to file .
+5514	insert functionality test test insert 3 ( ) . tests insert . . . select functionality
+1674	adds another item to the queue , blocking while the queue is full .
+1519	unpack a period delimited string and get the object at that pointer . i . e test . test 2 . test 3 translates to test [ " test 2 " ] [ " test 3 " ]
+6224	method to populate the edit buffer frame with default values
+1584	close the stream . once a stream has been closed , further read ( ) , ready ( ) , mark ( ) , or reset ( ) invocations will throw an ioexception . closing a previously - closed stream , however , has no effect .
+5881	util method for first populating request properties before execution .
+5635	logically closes this invocation handler . returns true only once when the handler state transitions from open to close .
+4333	determine whether or not two objects of this type are equal
+711	call byte method v : invoke a virtual method that returns a byte value
+7527	write a start tag . pass the event on down the filter chain for further processing .
+2045	checks to see if the entity definition indicates that it extends another entity definition .
+6201	removes a video from the adapter and notify the change .
+1291	calculates whether the url is a landing page or not
+4803	instantiates a new mx f uid .
+5925	add a listener for following changes on hidden channel logs .
+3150	invalidates a peer and removes it from the peer manager ' s list of current peers .
+1139	removed punctuation from the beg ging or end of input if it does not appear to be a sentence ending with a period .
+750	removes a row from this table .
+3733	replace the old child with a new child .
+4741	support for reporting changes for constrained integer properties . this method can be called before a constrained property will be changed and it will send the appropriate propertychangeevent to any registered vetoablechange listeners .
+1307	used to communicate a progress update between a plugin tool and the main whitebox user interface .
+3814	management method for the wan dere r , that steps through the children of the directory and calls handle entry for them .
+1654	asserts that two objects are equal . if they are not an assertionfailederror is thrown with the given message .
+6227	similar to geopoint . fromin ver ted double string , with exceptions handling
+4554	parses out the properties of a selector ' s body .
+7428	starts processing the feature extraction batch job .
+5977	this method requires the caller to hold the permission access network state .
+2664	builds a new fuzzy query instance
+6065	determines if a kv no matches another kv no . used in the method find key ( type , kv no , keys ) . always returns true if either input is null or zero , in case any side does not have kv no info available . note : zero is included because n / a is not a legal value for kv no in javax . security . auth . kerberos . kerber os key . therefore , the info that the kv no is n / a might be lost when converting between this class and kerber os key .
+5820	constructs a query for a sab res object subclass type . a default query with no further parameters will retrieve all sab res objects of the provided class .
+3432	chooses randomly the attributes that get datat yp numeric .
+4374	tries ( and retries as specified up to ' getmax pings ( ) ' ) to " ping " the specified clam d daemon to check if it is up and accepting requests .
+1169	uses fully qualifiedname to create a hashcode .
+2803	check if it ' s time to stop processing . processing auto - complete shouldn ' t take more than a few milliseconds . if processing is stopped , this methods throws an illegalstateexception
+4010	creates a database to read from .
+2677	makes a java . sql . date from separate ints for month , day , year
+7573	pipes everything from the source to the dest . if dest is null , then everything is read from source and thrown away .
+6216	curl - i - x post " http : / / < host > : < port > / web hdfs / v1 / < path > ? op = append [ & buffersize = < int > ] "
+4422	add editor to parameter panel alternative right / left depending on m new row . field value changes update editors
+3598	check if we ' ve crossed a reasonable touch slop for the given child view . if the child cannot be dragged along the horizontal or vertical axis , motion along that axis will not count toward the slop check .
+5313	gets the longest namespace that is a prefix of the name node . returns null if no namespaces are valid prefixes .
+916	260 a ' stream less ' version of encode that simply takes a bytebuffer 261 and returns a string containing the encoded buffer . 262 2 63 the bytebuffer ' s position will be advanced to bytebuffer ' s limit . 264
+3752	converts the loggingevent data in xml string format into an actual xml document class instance .
+525	reset the workspace view when changing workspaces . removes old views and creates all necessary new views .
+5168	get the composed bytes of pdu .
+6572	tries to find the given type name and add it to the import structure .
+4386	creates a new instance of race gui
+1084	updates the given fields in the extension . if the user doesn ' t have the given extension fields , they will be added .
+3456	check to see if a string is a valid nmtoken according to [ 7 ] in the xml 1 . 0 recommendation
+5155	discard upstream media chunks until the queue length is equal to the length specified .
+3483	like string . indexof ( ) except that it will look for any of the characters in ' chars ' ( similar to c ' s str p br k )
+8179	return all likely combinations of namespaces and template arguments for this c + + type
+6482	generates a string representation of a java date object . the string is formatted according to the specification for xml property list dates .
+7517	creates the combination of all match results .
+2340	append count characters from pattern onto out , repeating if necessary .
+4339	a convenience method that gives an editable omgraphic a chance to modify the omgraphic so it can be drawn quickly , by turning off labels , etc , right before the xor painting happens . the omgraphic should be configured so that the render method does the least amount of painting possible . note that the drawing attributes for the omgraphic have already been set to drawing attributes . default ( black line , clear fill ) .
+2287	implements the abstract method simulate method . it distributes the request to the corresponding methods by signatures .
+4040	computes the pointwise matrix product of the list of factors
+4304	rehashes the map to the new capacity .
+7019	called after the caret has been moved and a fixed time delay has elapsed . this locates and highlights all occurrences of the identifier at the caret position , if any .
+6543	returns an initialized dateformat object .
+5930	warning log message with printf formatting .
+3593	skip the specified number of characters .
+2266	adds business object data status instances created from the list of storage unit entities to the specified list of not - available statuses .
+8348	constructs new ip finder .
+8085	this method is called via reflection from the database .
+1489	creates the schema column entities .
+771	multiply two numbers of different scales
+1796	process an attribute string of type t simple pattern list into a vector of xpath match patterns .
+2504	construct a new mutable biginteger with a magnitude equal to the specified biginteger .
+2621	clean up after termination .
+6916	links node as first element , or returns false if full .
+1040	sorts an array of comparable objects , returning a new array with the sorted items . the original array is left untouched .
+6304	blocks when in blocking mode until at least one byte has been decoded . when not in blocking mode 0 may be returned .
+6252	adds fill components to empty cells in the first row and first column of the grid . this ensures that the grid spacing will be the same as shown in the designer .
+7668	sets next offset to the next preceeding ws - - this method must not be called during parsing of jsdoc , but only for completion hint !
+8669	stops communication with and closes all connections to the remote http server ( service ) .
+4119	the address above which program text can run .
+188	this method will check if the given location is either empty or is an blob entry of the given mimetype . if neither is the case , null will be returned . otherwise the blob entry denoting this location will be returned .
+1876	stores given integer value assuming that value should be stored in little - endian byte order and native byte order is big - endian . alignment aware .
+4371	report the start of dtd declarations , if any . any declarations are assumed to be in the internal subset unless otherwise indicated .
+5573	initialize a grain v1 cipher .
+1827	logger all information about an outbound o ob message .
+4808	puts an array of bytes into this byte vector . the byte vector is automatically enlarged if necessary .
+7123	uses the non - portable system property sun . arch . data . model to help determine if we are running on a 32 - bit jvm . since the majority of modern systems are 64 bits , this method " assumes " 64 bits and only returns true if sun . arch . data . model explicitly indicates a 32 - bit jvm .
+2591	tests fix for bug 18 0 41 - server - side prepared statements don ' t cause truncation exceptions to be thrown .
+7433	initializes a new instance with the specified regular expression pattern , a type for generated tokens , and a name of a grammar state that should be triggered .
+53	prepares the data for volume tests .
+4315	attempts to do an in - place rewrite of the exif metadata . if this fails , fall back to overwriting file . this preserves tags that are not being rewritten .
+8201	returns true if the connection is not closed .
+2927	find words for a more - query from documents - this query former .
+8317	deletes the attribute value .
+1743	internal method to delete a range without validation .
+4889	creates a transparent panel with a loading icon and a text .
+3258	this service is used to write values to one or more attributes of one or more nodes .
+6126	tests this renderer for equality with another object .
+2646	this calculates the trim area for the icon as specified in the guidelines
+8689	reset any internal state , allowing this builder to be recycled .
+9	determine if the agent is empty . in other words , the user hasn ' t entered any information for a single field yet .
+5310	converts an attribute name ( with space ) to an xml element name ( with underscores ) .
+8005	split uint 8 to 2 bytes of high byte and low byte . e . g . 20 = 0x 14 should be split to [ 0x01 , 0x 04 ] 0x01 is high byte and 0x 04 is low byte
+319	parse a string to an int , returning 0 if it ' s not parsable .
+1832	info log message with printf formatting .
+5947	used to check if a recipe matches current crafting inventory
+5038	aggregate feature values stored in a chain of hypotheses .
+3923	removes all instrumentation point from the given types .
+949	performs a sort on the given string array . elements will be re - ordered into ascending order . uses a stable ternary quick sort algorithm .
+3946	setbit ( int n ) outside a negative number
+1290	put current frame into stack due to function call
+1403	angle of this sample in degrees
+7962	generates a random alphanumer ical string of the given length . the used characters are : 0 123456789 abcdefghijklm nop qr stu vw xyz
+1133	returns true if the specified character is a supplemental character .
+2060	make a change to a node in the displayed tree . either its name or the contents of its leaves ( image references )
+2103	removes the given alarm object from the list of alarms .
+7787	generates a random chart data object with just one dataset
+2705	returns the charset of this media type , or null if this media type doesn ' t specify a charset .
+4342	puts lengths of sequences in an array and returns it . light ly tested
+8645	call static char method v : invoke a static method that returns a char value
+6932	indicates if this stream is ready to be read .
+3470	wraps up the index generation process and writes all remaining statements e . g . concerning uncompressed - indexes on the created tables .
+3295	check whether the given iterator contains the given element .
+5107	returns true if an observed value matches the given condition .
+6537	called from write selector thread to complete pending write requests . this is synchronized to ensure mutual exclusion with write byte sto channel none blocking method
+6118	add the certificates and crls contained in the given certstore to the pool that will be included in the encoded signature block . note : this assumes the certstore will support null in the get methods .
+7177	return the index of the next grid to restart .
+8479	prints a character to standard output and then terminates the line .
+7397	updates entries using batched write - through .
+1982	schedules a file to be deleted when jvm exits . if file is directory delete it and all sub - directories .
+4061	returns the id as a string
+3681	clamp the magnitude of value for absmin and absmax . if the value is below the minimum , it will be clamped to zero . if the value is above the maximum , it will be clamped to the maximum .
+1049	allocate a number of blocks and mark them as used .
+5539	sets the key - value pair in the internal session property table if it is not protected . if it is protected client should have permission to set it . this method is to be used in conju ction with session requesthandler / session service invocation path if the property is protected , an attempt to remotely set a protected property is logged and the method throws an exception . otherwise invocation is delegated to internal put property ( ) note that package default access is being used
+344	parse the attributes passed to the view from the xml
+3770	remove stale range references from the range list .
+3608	flip bit ( int n ) inside a positive number
+117	support for reporting bound property changes for object properties . this method can be called when a bound property has changed and it will send the appropriate propertychangeevent to any registered propertychangelisteners .
+1163	returns whether the given object is the magic object that represents the null value of its class .
+964	fill result with bytes from the queue . wait for it if it isn ' t ready .
+3750	checks if a charsequence is whitespace , empty ( " " ) or null .
+1104	add the given listener to the those notified whenever a diagnostic occurs . requests to add null are ignored . adding the same listener multiple times is the same as adding it once .
+514	checks whether folder is the same as file . getparent file ( ) .
+5413	sets the css classes for the last added element .
+1160	test where no locks are declared . this should run all tasks with the maximum concurrency . since there is no timeout , all tasks should complete successfully .
+8423	verifies that all grid rows are of the same length .
+3899	any promises must complete .
+4562	creates directory for cache files if it doesn ' t already exist
+7953	set union over the gathered edges .
+3510	from the test suites generated in the last ct g run , add the given one to the current best set
+2167	when complete action executes on exceptional completion , propagating source result .
+7744	runs the test case .
+3981	construct a new instance with the specified detail string and exception .
+7749	skips the given number of names in the table buffer .
+6669	if the argument is a bounded typevariable or wildcar dtype , return its non - variable , non - wildcard upper bound . otherwise , return the type itself .
+3119	partially reverses the given input buffer in - place from the given offset up to the given length , keeping surrogate pairs in the correct ( non - reversed ) order .
+1545	creates a periodic action with given nano time and period .
+1588	invoke heapify - down for the root object .
+7062	initialize the layout with starting values .
+5804	count the words of a text file .
+6939	a recursive method that tries to match all css selectors with the specified element
+6735	returns int [ ] scaled width , scaled height for dimensions that fit within the given maxwidth , max height at the given in width , in height aspect ratio . if the in dimensions fit fully inside the max dimensions , no scaling is applied . otherwise , at least one scaled dimension is set to a max dimension , and the other scaled dimension is scaled to fit .
+7651	print a new content tag with a single attribute , consisting of an open tag , content text , and a closing tag , all on one line .
+887	update the cg so it is deleted .
+1612	initialize the logging system .
+993	add a criteria entry .
+6596	find the fields constant that matches fieldid , or null if its not found .
+5559	checks if any of the initiators belongs to a true host and returns true if all initiators do not belong to a host . this effectively checks if all initiators are for an rp or vplex system because the host id is set to null for these initiators .
+1790	com initialization should be invoked once per process . all invocation should be made from the same thread .
+4073	creates a new instance for os file system operating on the caller - specified file .
+3139	saves the sorted pom file .
+3116	calculates the ( minimum ) distance of a given point to the border of the rectangle . if the point lies within the rectangle , the distance is zero .
+7350	called to s mash this block
+2296	returns the index within this string of the first occurrence of the specified substring , starting at the specified index . the integer returned is the smallest value such that : this . startswith ( str , ) & & ( > = fromindex ) is true . there is no restriction on the value of fromindex . if it is negative , it has the same effect as if it were zero : this entire string may be searched . if it is greater than the length of this string , it has the same effect as if it were equal to the length of this string : - 1 is returned .
+3006	reads document from file
+4563	use adb to send a keyevent to the device . full list of keys available here : http : / / developer . android . com / reference / android / view / keyevent . html
+7579	initialize sample driver with a list of handlers .
+4092	ensures the truth of an expression involving one or more parameters to the calling method .
+1235	util method to write an attribute with the ns prefix
+7260	and for a positive and a negative numbers ; the first is shorter
+1604	compares this object with the given object .
+828	clears the data . currently just adds a single vector to each data source .
+241	returns a subset of all of the defined jobs that are restricted by the job ids ( bean ids ) passed in . this is done on the basis that the actual jobid contains the id passed in . allows analyses to be restricted , e . g . by command line arguments .
+1528	determines if the passed - in object is equivalent to this uri .
+3872	clears the cache . deletes all cached files from disk .
+2724	encodes outgoing multicast requests based on protocol in use , applying configured security constraints ( if any ) .
+6658	hide a column from view in the table .
+7956	determines the length of the encrypted column .
+7886	given a set of info sources , computes the set of filtered info sources using the filtering info stored in the field f filtered t aint source smap . returns the resulting set of filtered info sources .
+3502	java . text . attributedcharacteriterator . attribute readresolve ( ) test of method java . text . attributedcharacteriterator . attribute readresolve ( ) .
+6570	this method will form one single byte [ ] for all the high card dims . first it will add all the indexes of variable length byte [ ] and then the actual value
+960	adds a new xy series to the list .
+2697	reads data into an array of bytes . this method blocks until some input is available .
+6209	create a new span n able stringbuilder containing a copy of the specified text , including its spans if any .
+35	test against the " void next bytes ( byte [ ] ) " method ; it checks out that different securerandom objects being supplied with the same seed return the same sequ encies of bytes as results of their " next bytes ( byte [ ] ) " methods
+6396	append a string representation of this set to result . this will be a cleaned version of the string passed to appl yp attern ( ) , if there is one . otherwise it will be generated .
+4345	returns an enumeration describing the available options .
+7454	flip bit ( int n ) inside a positive number
+4673	java . util . arrays fill ( float [ ] , int , int , float )
+6930	disables pan te th ering on the local device and checks to make sure that te th ering is disabled .
+7973	search for intent handlers that are specific to this url aka , specialized apps like google maps or youtube
+2536	responsible for returning a lookup map of operation code to invoker .
+3111	line to the the farthest boundary , in case appear a super big piece .
+4861	adds mapping that will be added when the index gets created .
+3566	creates new form configure coer ce ive parsing dialog nb
+958	writes a raw packet to the desired interface . a l2 header will be added which includes the specified destination address , our source mac , and the specified protocol type . the caller is responsible for computing correct ip - header and payload checksums .
+998	reset options to default values
+5138	removes an index entry
+936	removes a listener from the set of listeners
+821	load propertyeditor from cl z through reflection .
+7811	init the bootstrap info , including : check and setup root tenant or my vdc info , if it doesn ' t exist
+8238	creates a new simple usercontext for the user with the given username which provides access to only those configurations within the given map .
+8701	this function defines a protocol for handling substitution names that are " special , " i . e . , that have some property beyond just being substitutions . at the rule base db re ak iterator level , we have one special substitution name , " < ignore > " . subclasses can override this function to add more . any special processing that has to go on beyond that which is done by the normal substitution - processing code is done here .
+2579	returns a two element array containing this map ' s key and value types in positions 0 and 1 respectively .
+931	copies one array of type int [ ] [ ] to another .
+8320	create an initial op p
+1312	the text compaction mode includes all the printable ascii characters ( i . e . values from 32 to 126 ) and three ascii control characters : ht or tab ( ascii value 9 ) , lf or line feed ( ascii value 10 ) , and cr or carriage return ( ascii value 13 ) . the text compaction mode also includes various latch and shift characters which are used exclusively within the mode . the text compaction mode encodes up to 2 characters per code word . the compaction rules for converting data into pdf 417 codewords are defined in 5 . 4 . 2 . 2 . the sub - mode switches are defined in 5 . 4 . 2 . 3 .
+3044	takes a full path to own cloud file and removes beginning which is path to own load data folder . if fullpath does not start with that folder , fullpath is returned as is .
+1122	spawn a single item at the specified position .
+1113	a method to generate hash code for this mx f uid
+3853	adds the rtp stream listener
+6615	adds an exception message , if not null , to the action warnings .
+1964	based on the list contained in the string , build a set of subfield definitions .
+4033	converts a string into its java - style utf - 8 form . java - style utf - 8 differs from normal utf - 8 in the handling of character ' \ 0 ' and surrogate pairs .
+651	method that waits until the target jvm indicates that its shared memory is safe to access .
+1343	creates a bevel border with the specified type , highlight and shadow colors .
+6868	initialize jni field and method ids for fields that may be accessed from c .
+8565	this method make bean persist depending on annotations used .
+5183	create a new sensor if all checks are passed system name is normalized to ensure uniqueness .
+4272	found an open tag starting with comment sign . bur ning through characters up to the comment ' s end .
+3346	begin change the schema this method should be called before making any changes to the class
+5147	this method is called when the vm is exiting to provide a hook to allow the adaptive optimization subsystem to generate a summary report . it can also be called directly from driver programs to allow reporting on a single run of a benchmark that the driver program is executing in a loop ( in which case the adaptive system isn ' t actually exiting . . . . . so some of the log messages may get a little weird ) .
+3910	populate a k dbx header from the input stream supplied
+4351	reads a block starting from the current file pointer .
+6484	return the string representation of the ip address following the common decimal - dotted notation xxx . xxx . xxx . xxx .
+2144	opens a url to fe dex and makes a request .
+4915	returns text if descriptions contains only text . if it contains any inline tags , than returned compo sed content will contain multiple nodes , one for each inline tag and one for each text before / after / in between inline tags . order of data is preserved . stops scanning for text when reaches end of comment or line tag . inlin etags are identified based on dictionary provided with method call .
+7491	update button apply / revert state .
+5180	creates a new container if it is necessary .
+1188	insert the element ( id ) with given priority . inserting too many items into a binary heap will cause exception .
+152	marks the current position in this audio input stream .
+7508	sends an intent to create a new calendar event by pre populating the add event ui . older versions of the system have a bug where the event title will not be filled out .
+1638	returns the segment that should be used for key with given hash
+1200	reads the bytecode of a class .
+3492	helper for javascri p te scape and javascri p te scape to ascii
+8288	check if this search result expects a v lv response control
+2170	find the canonical labelling by increasing a tmp pattern one vertex at a time and comparing it with the previous minimum .
+5718	im it ates a click on the search button to initiate a search .
+1127	decrypt an array using the adobe type 1 font decryption algorithm .
+4002	parse an ignored section until ] ] > is encountered .
+6054	zlib decompress 2 byte
+4669	checks the passwords and returned error state or succeeded if the passwords are valid .
+2584	fills a buffer by reading data from a socket .
+7179	remove stale iterator references from the iterator list .
+4956	replaces all special characters in the url with hex strings .
+8666	create a sequence initialised to - 1 .
+128	add a custom data handler for a given column name .
+4905	javax . security . auth . subject do as ( subject subject , privileged action action )
+1697	converts a date object to a string representation .
+2200	returns true if the ip address of the host matches the specified ip address pattern . pattern and mask specification is done the same way as for socks configuration . example : isin net ( host , " 19 8 . 95 . 0 . 0 " , " 255 . 255 . 0 . 0 " ) is true if the ip address of the host matches 19 8 . 95 . . .
+1891	returns the number of bytes of the document .
+1753	receive notification of character data inside an element .
+2546	tests all timezone mappings supported .
+4462	gets all failures , if there were any . the collection will be unmodifiable and immutable ; if it is not empty , subsequent invocations of this method may all return same collection instance , but only as long as no additional failures are reported . if new failures are reported , they and the previous will be in a new collection instance .
+4616	returns the minimum value in the specified array .
+3450	delete the specified project .
+5617	renders node to appendable .
+3335	add an equation with three operands on the right - hand side .
+4325	return an iterator over the filter ' s data schemes .
+8280	appends message if the given name is similar to the candidate .
+8004	called when the transport connection failed and an error should be returned .
+4114	generate random points for wave .
+832	method to be invoked for firing audit event .
+1512	adds criteria to ( existing ) selection arguments criteria is always added as first element into ( existing ) selection arguments
+4533	encloses the incoming string inside double quotes , if it isn ' t already quoted .
+722	returns a set of source methods included in the source call tree .
+58	writes the gpx file
+5464	returns an enumeration describing the available options .
+2143	return whether or not the basic block contains the given instruction .
+4291	appends the index source map to the given buffer .
+2647	initialize a list of service default states if not already created . this method could be called only once per instance initialization .
+7239	update the current time .
+7007	check for equality of two expression matcher objects .
+158	determine if the key exists .
+1232	converts millisecond count to hh : mm : ss . ss where the seconds are reported with 0 . 01 precision
+2442	when the slider is clicked we need to record the offset from the thumb centre .
+590	specifies that each entry should be automatically removed from the map once a fixed duration has passed since the entry ' s creation .
+6049	updates the buttons according to the key arrangement stored in settings provider
+2426	internal method to create new create access grant
+7041	loads the combined buffer , min and max from the given items array . the combined buffer is always in non - compact form and must be pre - allocated .
+2088	verify whether the user in the filter has access to the vpool based on resource acl
+685	set a directory to which pictures taken by camera will be saved . useful only when camera is a pick source
+5050	returns the number of rules contained in this grammar .
+5974	makes sure the given number is greater than or equal to the given minimum .
+653	converts screen space x - coordinates into normalized values .
+5862	a wrapper for stream . skip that is guaranteed to skip at least 1 byte when called
+3441	returns an array containing all of the elements in this queue , in proper sequence . the returned array will be " safe " in that no references to it are maintained by this queue . ( in other words , this method must allocate a new array ) . the caller is thus free to modify the returned array . this method acts as bridge between array - based and collection - based apis .
+4088	adds rdf data to the remote repository .
+1684	compare to a number of an less scale
+5794	appends a quoted string to a given buffer .
+2532	requests a filesystem in which to store application data .
+3878	inserts the specified element at the tail of this queue , waiting for space to become available if the queue is full .
+2662	opens a board design from a binary file or a spec ctr a dsn file need to detach from swing thread since messages are not printed . . .
+2900	this will insert the path segment provided . a path segment is represented by an optional namespace prefix and an xml element name . if there is no prefix then a null is entered this will ensure that the names and segments are kept aligned by index .
+6755	similar to total estimated quantity for re but will consider only previous res and not all res
+406	returns true if the source terminal has been clicked and a new connection is currently being pre viewed .
+2938	add a cookie to the http request
+5442	returns the destination point from the starting point point having travel led the given distance on the given initial bearing ( bearing normally varies around path followed ) .
+6745	unlinks interior node p with predecessor trail .
+4065	creates job create request using a specified namespace code and job name , but test hard coded parameters will be used .
+2608	read the properties file and unregister its configurable jam on jmx beans . note if the file has changed since the server was brought up the beans unregistered might not match those that were loaded .
+1771	decode the base 64 encoded input data . it is assumed the input data is valid .
+6267	replace the last array length parameter types with the component type of arraytype .
+634	load a serialized model .
+7711	clear the de ref set . this sets the fact so it is valid as the dataflow entry fact : no future de references are guaranteed .
+3644	saves a property list with the given object as root into a xml file .
+3269	builds a partial url - including the scheme and host , but not the servlet path or resource . scipio : version that assumes controller is to be used . also accepts boolean instead of boolean .
+7541	creates a new map with the same mappings as the given map . the map is created with a capacity of 1 . 5 times the number of mappings in the given map or 16 ( whichever is greater ) , and a default load factor ( 0 . 75 ) and concurrency level ( 16 ) .
+5728	wait for the number of finished jobs to equal to the number of submitted jobs .
+5000	indicates that the xmlreader object is no longer in use for the transform . note that the get xmlreader method may return an xmlreader that was specified on the sax source object by the application code . such a reader should still be passed to release xmlreader , but the reader manager will only re - use xml readers that it created .
+3728	terminates all threads , ending all discovery processing being performed by the current instance of this class . after this method has been invoked , no new lookup services will be discovered , and the effect of any new operations performed on the current instance of this class are undefined .
+3652	query the volume details
+387	adds an un - parameterized view to the named window .
+3164	read epoch from epoch file
+6528	returns true if connec te mc is configured and it is control node .
+5378	dispose of object , releasing resources . it ' s very important to call this method when you are done with this object . it will release any resources used by it such as service connections . naturally , once the object is disposed of , it can ' t be used again .
+4564	let sleeping thread pass the synchronization point .
+1137	removes a listener from the set listening to frame updates for this animation .
+4573	store an element in segment
+5753	populates the access request object .
+8346	desi ri alize a struct object
+6548	extract only the properties that match a prefix , and with the prefix removed .
+5425	polls the solr core stats using the specified client until the " starttime " time for collection is after the specified " min " . will loop for at most " timeout " milliseconds before throwing an assertion failure .
+452	verify the block mirror objects have been migrated correctly .
+1889	set reg to the next matching element , or null if none
+4279	constructs an instance of the dashboard service helper
+2925	shuts down the handler .
+4349	handles add provider resource id mapper request .
+626	notifies all the listeners that initialization is finished
+1776	returns a required number of random bytes . the method overrides " engine generate seed ( int ) " in class secure random spi .
+7119	much more accurate than exp ( value ) - 1 , for values close to zero .
+5663	tries to occupy the onclick enab ler .
+5139	probability density function of the wal d distribution .
+7149	create string representation of integer . preceding 0 will be add as needed .
+8379	converts the given value to the xml string value .
+1894	query with a string and boundaries . the string is supposed to be something that the user types in without a technical syntax . the mapping of the search terms into the index can be different according to a search type . please see https : / / www . elastic . co / guide / en / elasticsearch / reference / current / query - dsl - match - query . html . a better way to do this would be the usage of a cursor . see the delete method to find out how cursors work .
+6311	check if tele porting to a location is allowed .
+3114	tests the handling of binary / malformed data
+4173	get the image ready for rendering . this method is called to make sure that the accelerated surfacedata exists and is ready to be used . users call this method prior to any set of rendering to or from the image , to make sure the image is ready and compatible with the given graphicsconfiguration . the image may not be " ready " if either we had problems creating it in the first place ( e . g . , there was no space in v ram ) or if the surface became lost ( e . g . , some other app or the os caused v ram surfaces to be removed ) . note that we want to return restored in any situation where the surfacedata is different than it was last time . so whether it ' s software or hardware , if we have a different surfacedata object , then the contents have been altered and we must reflect that change to the user .
+727	delays , via thread . sleep , for the given millisecond delay , but if the sleep is shorter than specified , may re - sleep or yield until time elapses . ensures that the given time , as measured by system . nanotime ( ) , has elapsed .
+7144	create a list of nodes from variable analysis results .
+27	creates a new distribution locator for this system and registers an mbean for managing it . if the locator already exists , then this will simply register an mbean for it .
+8518	reads next variable length block from input .
+3228	bulk save of the entities
+5967	checks the parent window if its size is within parameters as set by the lc .
+7066	returns a clone of this instance .
+1146	returns the metastore serializer .
+5409	initialize the membership matrix with random values .
+5143	container listener interface method . should not be called directly . part of the container listener interface , and it ' s here to make the mapbean a good container citizen .
+2041	closes the subreport . checks if the provided subreport name matches subreport name stored on the stack . if the names match , end subreport will remove the subreport from stack and close it . otherwise , end subreport will log an error in the report .
+4920	this method should print statistics about the specification it is obviously not finished .
+8308	writes a portion of a string .
+5067	tests that multiple local instance return different random numbers , and that they are more or less evenly distributed .
+6691	the default implementation returns true .
+5344	this method replaces the parameters in query with actual values given by user . example of retrieve query : select from % t where % p > % s batchsize % l ;
+6592	insert data for position
+4844	adds a user message listener .
+2085	this is called when the user has started touching this widget .
+3143	helper method for storing printed pdf receipts to files
+6888	javax . net . ssl . sslengine wrap ( bytebuffer [ ] srcs , bytebuffer dst )
+6211	add a mapping from a public identifier to a path .
+2851	selects the most suitable preview and picture size , given the desired width and height . even though we may only need the preview size , it ' s necessary to find both the preview size and the picture size of the camera together , because these need to have the same aspect ratio . on some hardware , if you would only set the preview size , you will get a distorted image .
+4930	computes and returns the horizontal dialog base units . honors the font , font size and resolution . implementation note : 14 d lu y map to 22 pixel for 8 pt ta ho ma on 96 dpi . i could not yet manage to compute the microsoft compliant font height . therefore this method adds a correction value that seems to work well with the v ast majority of deskto ps . todo : revi se the computation of vertical base units as soon as there are more information about the original computation in microsoft environments .
+6653	removes a previously listening listener object .
+6	add a gcm registration listener . this does not replace the existing listeners but adds to the list of listeners
+4978	generic method to remove a permission from a holder
+4700	check for a compressed file extension - for now , . bz 2 , . xz and . gz
+3443	find the home folder of installation .
+7043	moves a box up and down ( rotation poin ty ) . useful for bodies . note : just keep f and f1 from the set rotation angles ( ) method .
+5279	this will only called once .
+7618	adds a new event listener to the list of event listeners .
+7238	4 - integer version of kar at z ub a multiplication .
+7244	runs a new worker jvm , by whatever mechanism ( e . g . l sf , pbs , sun grid engine ) assumes that the jar being executed has a main class define in the manifest . sets the worker to only accept jobs above the priority passed in as argument .
+3501	set the content by copying the given stream . note : do not use this when the content is character data since the encoding attribute will not be set .
+8375	cast a char value to a short object ( reference type )
+7752	handles parameters coming in prefixed with " search feat " where the parameter value is a product feature id ; meant to be used with text entry boxes or check - boxes and such
+2780	get proper string for an an object including arrays with upto one dimension of arrays .
+1389	process a new port . if link discovery is disabled on the port , then do nothing . if autop ort fast feature is enabled and the port is a fast port , then do nothing . otherwise , send l ldp message . add the port to quarant ine .
+4649	enter the symbols found in a list of parse trees . as a side - effect , this puts elements on the " todo " list . also stores a list of all top level classes in root classes .
+8445	modify consistency group in async mode
+5491	generates a device - and invocation - specific seed to be mixed into the linux prng .
+1530	creates a new is aac random number generator . the instance is initialized using a combination of the current time and system hash code of the instance as the seed .
+3848	divide : rounding mode is round half up , result is negative ; equi distant
+5085	load a lua str in g value from the input stream
+3680	checks reinit file according to argument need reinit
+3262	pushes a new type onto the output frame stack .
+2414	formats this date - time using the specified formatter . this date - time will be passed to the formatter to produce a string .
+400	map element was renamed
+757	returns a date object from a string .
+4011	closes the underlying parser .
+7784	initialize the login module , get options from configuration
+1193	process a trun king signalling block message
+7461	write out a tag with data identifying this job ' s constraints . if the constraint isn ' t here it doesn ' t apply .
+6790	creates the date from local or gmt .
+3185	compute val 10 ^ n ; return this product if it is representable as a long , inflated otherwise .
+6291	discard timed out requests in this replica
+8099	convert from a calendar to the appropriate date type
+6547	compute new remaining time after a move is made .
+3997	get iterator over the members of the class .
+2417	friction slo ws velocity in the opposite direction of motion , until zero velocity is reached .
+90	swap in the value as the new top of the stack and return the old value .
+1746	adds a new helper text , which should be shown , depending on the password strength . helper texts , which have been added later than others , are supposed to indicate a higher password strength .
+6965	v & h is a system of coordinates ( v and h ) for describing locations of rate centers in the united states . the projection , devi sed by j . k . don ald , is an " elliptical , " or " doubly equi distant " projection , scaled down by a factor of 0 . 003 to balance errors . the foc i of the projection , from which distances are measured accurately ( except for the scale correction ) , are at 37 d 42 m 14 . 69 s n , 8 2d 39 m 15 . 27 s w ( in flo yd co . , ky . ) and 4 1d 02 m 55 . 53 s n , 112 d 03 m 39 . 35 w ( in web ster co . , ut ah ) . they are just 0 . 4 radians apart . here is the transformation from latitude and longitude to v & h : first project the earth from its ellipso idal surface to a sphere . this alters the latitude ; the coefficients bi in the program are the coefficients of the polynomial approximation for the inverse transformation . ( the function is odd , so the coefficients are for the linear term , the cubic term , and so on . ) also subtract 52 degrees from the longitude . for the rest , compute the arc distances of the given point to the reference points , and transform them to the coordinate system in which the line through the reference points is the x - axis and the origin is the eastern reference point . the solution is h = ( square of distance to e - square of distance to w + square of distance between e and w ) / twice distance between e and w ; v = square root of absolute value of ( square of distance to e - square of h ) . reduce by three - ten ths of a percent , rotate by 76 . 59 74 97 degrees , and add 63 63 . 235 to v and 2 250 . 7 to h . to go the other way , as this program does , undo the final translation , rotation , and scaling . the z - value pz of the point on the x - y - z sphere satisfies the quadratic az z + bz + c = 0 , where a = ( ex w z - ez wx ) ^ 2 + ( ey w z x - ez w y ) ^ 2 + ( ex w y - ey wx ) ^ 2 ; b = - 2 [ ( ex cos ( arc to w ) - wx cos ( arc to e ) ) ( ex w z - ez wx ) - ( ey cos ( arc to w ) - w y cos ( arc to e ) ) ( ey w z - ez w y ) ] ; c = ( ex cos ( arc to w ) - wx cos ( arc to e ) ) ^ 2 + ( ey cos ( arc to w ) - w y cos ( arc to e ) ) ^ 2 - ( ex w y - ey wx ) ^ 2 . solve with the quadratic formula . the latitude is simply the arc sine of pz . px and py satisfy exp x + e ypy + ez pz = cos ( arc to e ) ; wx px + w ypy + w z pz = cos ( arc to w ) . substitute pz ' s value , and solve linearly to get px and py . the longitude is the arc tangent of px / py . finally , this latitude and longitude are spherical ; use the inverse polynomial approximation on the latitude to get the ellipso idal earth latitude , and add 52 degrees to the longitude .
+3585	returns the ascii characters up to but not including the next " \ r \ n " , or " \ n " .
+2881	evaluate model - over 20 windows .
+8486	ends the formal type parameters section of the signature .
+7611	parses a ucs - 4 character from the given source buffer , handling surrogates .
+822	creates a distribution according to given instances and split model .
+4082	submits task to execution pool
+1988	adds a new parameter to be used in the post request body .
+7478	add a string representation of a bop annotation value into a string builder . by default this is a non - recursive operation , however subclasses may override and give a recursive definition , which should respect the given indent .
+2184	as soon as this method return true , upload can be cancel via cancel ( ) .
+7612	perform a vm start operation on specified vm .
+8702	calculates the error for the current example .
+5198	the hashcode for a context is just the hashcode of its parts .
+7251	returns an instance of the conversation service using the service ' s default endpoint ( url ) , username and password .
+8270	removes and returns first element , or null if empty .
+6991	helper to launch the upload files activity for which you would like a result when it finished . your onactivityresult ( ) method will be called with the given request code .
+7305	start executor process via running an async shell process
+2607	expands the given number string as pairs as in years or ids
+7777	creates default implementation of task distributor
+7373	convert an input number object into a string .
+4246	calculates the y - offset for drawing the shadow image relative to the source .
+4050	write out this term key to output stream ' out '
+4543	validates that a given time is valid for the total time sle pt by a attempt boun de dex pon ential backoff given the number of retries and an initial polling interval .
+8540	create multilinestring as encoded by elem info .
+7939	asynchronously obtains an oauth token .
+3919	confirms that the o ma ha server sent back an " ok " code .
+4499	gets the graphic that should be used for the button given the current source ' s state
+7206	runs the test case .
+1269	send the message " selector " to an instance of the class named " receiver " . return the result , including stack trace ( if any ) .
+4681	creates a new array of doubles
+3841	returns a new substring search filter with the provided information .
+4451	loads properties from a java resource . this will load the named resource identifier into the given properties instance .
+5502	and for zero and one
+5238	calculates the " best - in - class year " of the device . this represents the top - end or flag ship devices of that year , not the actual release year of the phone . for example , the galaxy du os s was released in 2012 , but its specs are very similar to the galaxy s that was released in 2010 as a then top - of - the - line phone , so it is a 2010 device .
+1320	description of the method
+2267	returns a valid list of jdbc query statements . it contains only 1 statement , and the statement is case 1 sql in mock jdbc ( success , result 1 )
+2471	create a peer from a map .
+3788	triggered if a note issued during processing
+6275	calculate total amount of virtual machine v swap saved in shared storage when local v swap option is enabled . this option enabled virtual machine v swap placement on host local storage . return value in ter abytes .
+2503	returns a collection of items in the cart object .
+3505	checks if token value is contained in list . this base implementation is able to deal with list types represented as sets ; subclasses may override this method to be able to deal with different list representations .
+1052	line - wrap the passed string as an html string with break strings inserted .
+6797	check whether the given string is a valid identifier according to the java language specifications . see the java language specification second edition , section 3 . 8 for the definition of what is a valid identifier .
+6678	move to the final position of a scroller . ensures to force finish the scroller and if it is not at its final position a scroll of the selector wheel is performed to fast forward to the final position .
+5421	create a handler . the location and options provide a way to map from a location or an option to the corresponding handler .
+7633	executes the test and verifies the output received .
+6812	gets the string value of a property and loads it into a jtextfield
+1020	draws a square of side length 2 r , centered on ( x , y ) .
+3388	returns the sum of all values in this map . this method is not atomic : the sum may or may not include other concurrent operations .
+6883	splits and executes a id - base request , splitting the collection into smaller requests .
+6381	complex condition 0 for ' l '
+320	the end of the document .
+6232	utility to reconcile a desired size and state , with constraints imposed by a measure spec . tries to respect the min size , unless a different size is imposed by the constraints .
+7814	replaces all image objects in a span nable with nothing essentially removes them
+96	calculates this buffer ' s hash code from the remaining chars . the position , limit , capacity and mark don ' t affect the hash code .
+5763	clear listeners to prepare for garbage collection
+4892	strips the apple span appended by webkit while generating the selection markup .
+6389	pop the name at the top of the stack for a particular register
+6865	reads this object from a stream ( i . e . , deserializes it )
+3613	determines if the url is pointing to a directory .
+7999	returns locators unmarshalled from a null - terminated list of marsh alled instances read from the given stream , logging ( but toler ating ) unmarshalling failures .
+3595	instantiates a new console panel .
+4471	validate a potential path for import
+7140	iterates from this date up to the given date , inclusive , incrementing by one day each time .
+475	given a basic stroke , create an imageicon that shows it .
+6371	returns true if the key name is bound in any scope in the context . the key must be a string .
+5507	add a schema name , thereby incrementing counts .
+6624	reads the contents of httpentity into a byte [ ] .
+2704	find the fields constant that matches fieldid , or null if its not found .
+7657	create exception with message and root cause .
+2091	throws an exception for expected byte .
+441	this will build a ' snapshot ' h2 . jar file and upload it to the local maven 2 repository .
+6455	run after both result completes exceptionally after exceptional completion of either source
+444	computes the next edge pointers going ccw around the given node , for the given ed gering label . this algorithm has the effect of converting maximal ed ger ings into minimal ed ger ings
+1375	dispose the encoder , decoder , and the callback for the decoded messages .
+7022	handles when a drag gesture has been ended by the user .
+2223	replaces characters using the given conversion method .
+7564	format a list using given pattern strings . if either of the patterns is null , then a the list is formatted by concatenation with the delimiter ' , ' .
+2977	creates a sampleset by reading it from the given input stream
+823	called immediately before the transport transmits http request headers . this is used to observe the sent time should the request be cached .
+4262	adds a test class to the filter . all tests in this class should be filtered .
+5363	discover lun snaps , and create unmanaged volume for the snaps
+3467	helper function to convert a color component in srgb space to linear rgb space . copied directly from the multiple gradient paint context class .
+7449	populates the navigation drawer with the appropriate items .
+5355	add a pending event task for this event registration .
+5529	if the parameter is shorter than 4 bytes , then create and return a new 4 byte array with the input array ' s bytes followed by zero bytes . otherwise return the parameter .
+4558	extract a single element from a table . this returns an array of length 1 .
+6906	called when someone clicks on the checkbox preference .
+4133	constructs a new file using the specified directory and name .
+1341	populate model from given reflect setter method
+7705	add the specified property change listener .
+317	add all searchable items
+853	wait for the listener invocation for up to the given number of milliseconds .
+5733	implementation of printable , used for printing
+3673	creates a micro services runner instance which will be used for deploying micro services . allows specifying ports on which the micro services in this micro services runner are deployed .
+1124	creates a new managed object with no active values , just default values .
+659	returns length if expression has fixed length , - 1 otherwise . negation operators are treated as always variable length .
+508	encode the input data producing a hex output stream .
+4051	strips all non - digit characters from a string . the resulting string will only contain characters for which is digit ( ) returns true .
+3266	fill single payment with data
+333	returns a power of two size for the given target capacity .
+2496	called from auto - closing clips when one of their open ( ) method is called
+3908	convert a newline - delimited file to a list of sequences , optionally applying nist tokenization .
+2068	returns an enumeration describing the available options .
+7758	creates a new action object .
+1874	emits a method to clear a list or map . clearing the collections ensures that the collection is created .
+3571	closes the cache and deletes all of its stored values . this will delete all files in the cache directory including files that weren ' t created by the cache .
+7619	serializes original entity and returns a binary deserializer that can deserialize it .
+4198	validates if the chroot exists in zk ( or if it is successfully created ) . optionally , if create is set to true this method will create the path in case it doesn ' t exist
+6043	find out if a particular node is connected
+2749	if the warehouse gets set as a result of this method being called , the properties will be ed to be reset on it .
+2683	wait until instance of operator is deployed into a container and return the container reference . asserts non null return value .
+5096	add a contact uri to the list of contacts .
+420	creates the completely defined element .
+5111	acquires output stream for logging errors in tests .
+6149	append the contents of a string onto the fast stringbuffer , growing the storage if necessary . note that after calling append ( ) , previously obtained references to m array [ ] may no longer be valid .
+6498	returns a ( probably ) non - empty steal queue , if one is found during a scan , else null . this method must be retried by caller if , by the time it tries to use the queue , it is empty .
+3249	creates a link with the given uri and label text .
+1245	prints the composite message to system . err .
+3978	determines if the ids are equal ( and non - null ) .
+1669	check whether some of the first polygon ' s edges defined forms a separation axis of two polygons defined by the lists of vertices . optionally obtain a normalized direction of the separation axis .
+4941	return single logout service element for castle as idp .
+1983	returns an array containing all of the elements in this deque , in proper sequence ( from first to last element ) . the returned array will be " safe " in that no references to it are maintained by this deque . ( in other words , this method must allocate a new array ) . the caller is thus free to modify the returned array . this method acts as bridge between array - based and collection - based apis .
+672	remove the key / value mapping at the given index .
+5688	creates the g map s fx model polyline
+7018	checks database metadata to see if a column exists in a table . this method is sensitive to the case of both the provided table name and column name .
+6071	returns either the net ( if bif format ) or the generated instances
+1129	inserts the specified objects into this index . if a bulk load mode is implemented , the objects are inserted in one bulk .
+8289	compute the bounds of all of the split / divider / leaf nodes in the layout model , and then set the bounds of each child component with a matching leaf node .
+5590	update counts of the number of times we have seen each feature . features are only counted o un ce per source sentence
+207	returns a theme constant defined in the resource editor as a boolean value
+6882	writes a single character .
+8031	compute one frame by tracing the scene using our compute shader .
+1729	returns the offset of the byte array which this buffer is based on , if there is one . the offset is the index of the array which corresponds to the zero position of the buffer .
+7102	creates a new instance .
+5934	adds an alias by a phone number if the alias contains an invalid character , false will be returned
+7532	tokenize the given string based on the seperator and put the tokens into an array of strings
+2506	read the next decoded value from the stream
+7135	formats the given number to the given number of decimals , and returns the number as a string , maximum 35 characters .
+2885	creates an indication filter in the ci mom for the given configuration .
+8548	creates a new scanne rexception with a message only .
+4425	notifies listeners about clicking
+7921	returns the decoded path parts for the given encoded path .
+7616	wait until enough data ( key - value records ) has been consumed .
+7136	reads the response from adb after a command .
+4397	< ! - - begin - user - doc - - > < ! - - end - user - doc - - >
+5280	lookup the path , handling windows we ir d ness
+4022	grants a new access token using the given oauth 2 grant .
+1419	determines the height of this view
+4569	split a text into a list of strings . reduce the texts to a string of hashes where each unicode character represents one word .
+7385	sends out the notification that the file serving as document input has been deleted .
+3995	remember the given disable assertions string
+7613	parse the rtp packet
+5511	create the mark interior shape .
+470	factory method for constructing resolver that maps from enum . name ( ) into enum value
+8098	removes the file associated with the given key .
+5325	informs system metrics of a connection closed event .
+2979	creates a database configuration with the required parameters for opening a database and default values for all other parameters .
+7988	quickly converts a hexadecimal string to a byte array .
+3475	setbit ( int n ) inside a positive number
+5813	add a listener at the given index to be executed by the supplied executor
+4232	returns true if the specified character is a supplemental character .
+5576	replaces the placeholders with concrete values
+4581	returns whether data manipulation and create / drop is supported in transactions .
+4526	closes the resultset and statement .
+166	set ' effective host name ' as defined in rfc 29 65 . if a host name contains no dots , the effective host name is that name with the string . local appended to it . otherwise the effective host name is the same as the host name . note that all effective host names contain at least one dot .
+8464	this method will convert list of byte array to list of string
+3130	indent to the current level in multiples of basic indent
+1402	removes all spaces on left
+3954	walks the basic block tree in depth - first order , calling the visitor method once for every block . this depth - first walk may be run forward from the method entry point or backwards from the method exit points .
+3937	receive notification of character data inside an element .
+7800	create a memory chunk that is managed by its holder .
+8041	sometimes the underlying type parameters of annotated wildcard types are not available on the wildcards themselves . instead , record enclosing class to find the type parameter to use as a backup in visit wildcards .
+7342	saves photo file path during e . g . screen rotation
+282	if the normalized scale is equal to 1 , then the image is made to fit the screen . otherwise , it is made to fit the screen according to the dimensions of the previous image matrix . this allows the image to maintain its zoom after rotation .
+1524	is auto new record
+4820	returns a string representation of the system .
+3630	is the given log level currently enabled ?
+6625	called when the dependency changes .
+3986	adds a global mouse listener
+5016	convert a positive bigdecimal to biginteger
+6046	displays some component in the tool window
+7753	updates the over scroll animation based on the scrolled offset .
+8698	returns an enumeration describing the available options .
+5632	look for a conc ave polygon in the remainder of the edge buffer . by this point , if there are any edges in the edge buffer , they represent a conc ave polygon .
+6971	sets the current bindings aside and starts a new element context . this method should be called at the beginning of the startelement method of the serializer implementation .
+5419	handles sending the time seal ack .
+5764	opens the device image gallery
+7434	shows a context menu .
+4438	returns a string representation
+5023	constructs and configures a multi server with default ports no network operation is done at this point .
+4118	checks if rule has minimum or maximum scale denominator set . returns false if rule is null .
+3777	constructs a new class from an array of bytes containing a class definition in class file format .
+1976	update quantity csv in inventory
+3155	return localized description of this transport service
+5169	start key pair generation in a separate thread .
+1958	closes the underlying rrd file .
+3033	performs the given action for each remaining element until all elements have been processed or the action throws an exception . actions are performed in the order of iteration , if that order is specified . exceptions thrown by the action are relayed to the caller .
+3138	< ! - - begin - user - doc - - > < ! - - end - user - doc - - >
+3545	reads the given inputstream and sends a xmpp msg every 5000 chars or every 10 seconds , whatever comes first . if we happen to encounter an inputstream that never stops , like from " tail - f " or " logcat " without the " - d " option , the method will never return . see execute command on how we handle this .
+7933	called when fragment ing a handshake message .
+4530	creates a block of the specified type using one of the master blocks known to this factory . if the proto typename is not one of the known block types null will be returned instead .
+8595	determines what languages will be shown in the spinner .
+4636	returns the maximum element of this stream according to the provided key extractor function . this is a terminal operation .
+1647	creates a new panel object .
+3180	removes the given connection record from the list of active connections associated with the object having the given identifier .
+4853	add a new status icon manager .
+3727	i ' ll form the head !
+5912	avoid changes to the mod counter and events
+2939	add all the tile sets that the translation mapping uses to a map .
+4952	writes a character as a decimal escape . hex escapes are smaller than the decimal version , but netscape didn ' t support hex escapes until 4 . 7 . 4 .
+231	check if the file is there .
+2073	uri to fetch a csrf token .
+4494	determines whether a new span at [ start , end ) will overlap with any existing span .
+745	fired when a key is typed . this is the equivalent of keylistener . keytyped ( keyevent e ) .
+893	parses the current node and returns the number of elements added .
+4786	reset the second line of notes area
+8042	create an interface using the current set of method signatures .
+1680	load the data section of the file as ascii text
+200	get the next gaussian value .
+4658	converts a line index to a y co - ordinate .
+7690	multiply a positive number by one .
+7843	reset the chaining vector back to the iv and reset the underlying cipher .
+7216	updates and returns the given tree structure with info about the compressed size of each node .
+5582	loading method . ( see nbt tag )
+3020	creates the di phone unit database from the given input stream .
+841	insert one row into database with the auto incremental id returned .
+4136	determine if the given string is a valid ipv 4 or ipv 6 address . this method uses pattern matching to see if the given string could be a valid ip address .
+7827	returns the constant representing a tag with a given tid and default ifd .
+1869	keep private . call only when holding lock .
+1070	recursive function for constructing a newick tree representation in the given buffer .
+6565	get the type of the wrapped object .
+8056	open an old version for the given map .
+1213	asks the user for input .
+878	drops a table from a database underneath the connection object .
+2485	tests whether the given argument is legal as this encoder ' s replacement byte array . the given byte array is legal if and only if it can be decoded into characters .
+2444	writes a data byte to the output stream .
+1395	send a debug log message
+4066	load the t - box and a - box turtle from strings defined within this class .
+1940	determine property over a list of dock constraint objects
+6818	schedules an instruction as early as possible , but behind the definitions in e and behind ear lyp os
+3697	parser for the local phone .
+8561	the reverse of di c tid tostring ( ) , returns integer id
+7381	creates a uri from a file . the uri has the form " file : / / < absolute path > " . encodes path characters with the exception of ' / ' . example : " file : / / / tmp / android . txt "
+7253	add many statements at the same time , remove many statements at the same time . ordering by resource has to be done inside this method . the passed added / removed sets are disjun ct , no statement can be in both
+4871	construct a builder which can be used to generate uris for registering oath devices with an oath authentication module .
+7025	returns a random real number from a standard gaussian distribution .
+5003	examples of double and long predicates
+986	execute dml script by passing positional arguments using specified config file
+1625	convert localized descriptive text to log level
+3404	returns true if there is a media entity with the type of " photo "
+3457	most tol ls use standard six sided dice .
+4335	stress test for connecting and disconnecting the h fp with a hands free device . in this test , the local device plays the role of an h fp audio gateway , and initiates connections and dis connections with a hands free device .
+1330	generates a loo t chest at a location
+2573	test changing of classpath with the websphere container .
+3929	unescapes the character identified by the character or characters that immediately follow a backslash . the backslash ' \ ' should have already been read . this supports both unicode escapes " u000 a " and two - character escapes " \ n " .
+2847	handle the input virtual keycode and transition state , create event and add it to the input buffer
+1229	scipio : remove an item from the cart object . scipio : modified to support trigge rex ternal ops bool .
+2564	create the reveal effect animation
+43	converts a byte to hex digit and writes to the supplied buffer
+6693	signals a waiting put . called only from take / poll .
+7699	convert a positive bigdecimal to biginteger
+4771	converts a covariance matrix to a correlation matrix in place ; the same matrix is returned for convenience , but m is modified in the process .
+534	readobject is called to restore the state of this key from a stream .
+3792	process an attribute string of type t stringlist into a vector of xpath match patterns .
+4720	writes a binary plist serialization of the given object as the root into a byte array .
+4632	produce the actual svg elements for the button .
+7438	removes a listener on multimedia messaging session events
+1166	reads a float ( 32 bit ) from the source stream .
+3824	return the number of processors , always at least one .
+4334	output the sql type for a java long string .
+3241	verify add certificate ( certificate certificate ) adds a certificate for this identity . if the identity does not have a public key , the identity ' s public key is set to be that specified in the certificate .
+1880	dispatch the on thirdparty registered to the listeners .
+3683	tells all registered entities about the end of simulation .
+2441	\ fn mat 4 util inplace rotate \ brief in place rotate using euler radi ans x , euler radi ans y , euler radi ans z \ param in out matrix [ mat 4 ] \ param euler radi ans x [ float ] \ param euler radi ans y [ float ] \ param euler radi ans z [ float ]
+4352	are these two vectors the same ? they are is they both have the same x and y values .
+2330	checks the reference to a type in a type annotation .
+977	unregister all jmx mbeans
+2718	execute the xpath object from a given opcode position .
+5039	send info on turnouts to devices , not specific to any one turnout . format : p tt ] \ [ value | turno ut key ] \ [ value | closed key ] \ [ value | thro wn key
+4728	expands given token to list of words pro noun cing it as digits
+7195	appends a quoted column name , prepending a table alias if necessary
+2037	copy nodelist members into this nodelist , adding in document order . if a node is null , don ' t add it .
+7679	ensures the truth of an expression involving one or more parameters to the calling method .
+4982	checks for using adaptation and enables or disables adaptation field accordingly .
+6594	encodes the issuing distribution point extension and writes it to the der outputstream .
+4460	store all non - null elements of values into the given entry , and update service by attr to match .
+8199	installs a fallback selector that is used whenever no protocol specific selector is defined .
+8090	find the fields constant that matches fieldid , or null if its not found .
+7172	add a decimal point
+1317	recompute the separation of cluster means .
+7078	instantiate all these classes .
+4102	adds a table sort key . the table will be sorted according to the provided string comparator .
+423	remove a trace from the plot area .
+1496	we only want the current page that is being shown to be focusable .
+339	performs trylock for write , enabling b arg ing in both modes . this is identical in effect to try acquire except for lack of calls to writer should block .
+4415	return true if this class is defined in gen / directory of android application .
+2870	create a certificate issue rextension from the specified der encoded value of the same .
+7708	compute closest to central line points . several points will be written to array only if they have same x values
+8502	it compresses depends up on the sequence numbers . [ 1 , 2 , 3 , 4 , 6 , 8 , 10 , 11 , 12 , 13 ] is translated to [ 1 , 4 , 6 , 8 , 10 , 13 ] and [ 0 , 6 ] . in first array the start and end of sequential numbers and second array keeps the indexes of where sequential numbers starts . if there is no sequential numbers then the same array it returns with empty second array .
+7245	adds implemented interface name .
+2973	draws a portion of an image , stretched or tiled .
+7141	runs the test case .
+1494	create a new edit sensor dialog .
+7700	clean up the path so that is looks like " . / usr / local / file "
+5700	initialise security context from async context . there are two types that we operate with : 1 . security contex tholder - that holds the current spring security context 2 . flex context - that holds flex credentials ( including password ) which is used to access ws we ne e both of these contexts to allow bulk import , re index service and cache director operate properly
+6690	reads a block from a given location .
+5460	test shared test data validity .
+5260	emits a message to the log , timestamped with the specified time .
+1713	the method prepares the sort index and sort index inverted data
+2634	filter for jformattedtextfield . ensures valid filenames . does not work for directories .
+5403	guess the config based on the first 10 ( or less when less available ) records of a csv file .
+6744	load cluster all namespace info with items
+8117	adds nodes for any collapsed edge pairs which are pre - existing in the vertex list .
+4722	creates a new standard job definition .
+6561	returns an enumeration describing the available options .
+601	reload configuration for this cluster .
+7451	get executor and execute the query model .
+1442	count the tail ing non - newline characters .
+5153	returns true if cancelled
+4135	algorithm to find the 2 high tides for the day , the first of which is smaller and occurs mid - day , the second of which is larger and typically in the even ing .
+5296	convenient method to check whether given storage port is usable to compute port metric
+1899	constructs a new factory instance .
+6622	checks the process of sending track to google .
+8431	add or replace an element type for this schema .
+18	for news stories or other info gathering , setup player groups by student standing run through each type of player , add them to the appropriate year
+7569	create a buffered block cipher without padding .
+6770	calculates the next capacity that meets the given minimum capacity .
+888	writes longs from the given long array , starting from the specified offset , to the current position and increases the position by the number of longs written .
+3073	remove the widget from the current selection
+8494	execute the function . the function must return a valid object .
+5927	n parent and n must be locked on entry . returns a damaged node , or null if no more re balancing is necessary .
+8167	convert the specified charsequence to an input stream , encoded as bytes using the specified character encoding .
+7242	creates default implementation of task distributor
+845	recreates the scroll buttons and adds them to the tabbedpane .
+4375	compute the image size to fit in a square .
+2146	convenient method for testing
+4719	the smallest value , of all values inside the array , only work when all values are numeric
+7178	if available , when the disable - output - escaping attribute is used , output raw text without escaping . a pi will be inserted in front of the node with the name " lot us xsl - next - is - raw " and a value of " formatter - to - dom " .
+7941	factory method for creating a new element with the given name , given value and given attributes . the value and the attributes may be null .
+1989	reads an input stream into a single string result .
+472	finds the next instance of the text / regular expression specified from the caret position . if a match is found , it is replaced with the specified replacement string .
+3920	add a command line switch that allows optional extra information to be specified as part of it .
+2594	used to communicate a progress update between a plugin tool and the main whitebox user interface .
+5091	convert a " ffffff " hex string to a color . if the color specification is bad , an attempt will be made to fix it up .
+224	generate matrix with random elements
+6684	check if an address pattern equals a specific address pattern you are looking for . this is usually used when parsing an osc message . e . g . if ( theo sc message . check addr pattern ( " / test " ) = = true ) . . .
+1527	calculates control width and creates text layouts
+1858	update tr l tables automatically ?
+7560	defines randomly the attributes as irrelevant . number of attributes to be set as irrelevant is either set with a preceeding call of set num irrelevant ( ) or is per default 0 .
+1924	flushes write chunk to internal buffer . empties writ ech unk ( of bytes to write ) .
+2522	added another ec minfo to the effects for a location .
+8165	get the directory listing ( n lst ) .
+4781	closes all the connections in the cache , whether timed out or not .
+8337	computes e to the given power . where - 1 < a < 1 . use the classic taylor series . 1 + x 2 / 2 ! + x 3 / 3 ! + x 4 / 4 ! . . .
+4479	like escape , but treats the input as an already escaped string and only tries to ensure that characters that might or need not be escaped for correctness are consistently escaped .
+6807	indicates the number of attributes held in the container .
+7905	creates an integer number .
+7736	helper method that sets the upper and lower bounds to null .
+3993	transforms all rows from the cursor and put them in a read - only set .
+7483	updates the ideal point given the solutions currently in this population .
+2369	unpacks the compressed character translation table .
+6284	merges a stored method handle to the local variables .
+3122	implements the trigger function for trigger able interface .
+8327	opens a soap connection .
+2236	returns the set of types to import . we import every type that is neither in java . lang nor in the package containing the retro facebook class , provided that the result refers to the type un ambiguously . for example , if there is a property of type java . util . map . entry then we will import java . util . map . entry and refer to the property as entry . we could also import just java . util . map in this case and refer to map . entry , but currently we never do that .
+1143	construct a logrecord with the given level and message values . the sequence property will be initialized with a new unique value . these sequence values are allocated in increasing order within a vm . the millis property will be initialized to the current time . the thread id property will be initialized with a unique id for the current thread . all other properties will be initialized to " null " .
+6798	sends the help messages from the current command to the user , does nothing if there are no help messages available
+5568	finishes writing current uncompressed data into the inf later outputstream without closing it .
+8318	clamp the magnitude of value for absmin and absmax . if the value is below the minimum , it will be clamped to zero . if the value is above the maximum , it will be clamped to the maximum .
+4377	returns the population standard deviation in the specified subarray .
+42	poisson probability mass function ( pmf ) for integer values .
+4634	ensures the allocation of unique addresses by mapping allocated address with uniqueness assertion against physical address .
+4891	after all lines created , clean all non - linked stations , all pt - exclusive links ( check allowed modes ) and all nodes which are non - linked to any link after the above cleaning . . . clean also the allowed modes for only the modes , no line - number any more . . .
+8022	constructs a short ban de dra ster with the given samplemodel and databuffer . the raster ' s upper left corner is origin and it is the same size as the samplemodel . the databuffer is not initialized and must be a datab uff er ushort compatible with samplemodel . samplemodel must be of type ban ded samplemodel .
+2434	if a name has been resolved , add it .
+7316	decode the base 64 - encoded data in input and return the data in a new byte array . the padding ' = ' characters at the end are considered optional , but if any are present , there must be the correct number of them .
+7935	initializes the sparse slider .
+5654	returns true if it ' s possible that the given string represents a valid floating point value ( excluding nan , inf and - inf ) .
+5446	method to create a user entry
+6180	create stri ped thread pool .
+7460	checks if two classes belong to the same package .
+5272	this method is called when we have parsed an os command escape sequence . the only one we support is " \ e ] 0 ; . . . \ u00 07 " , which sets the terminal title .
+3090	formats the applied args into the template content . the supplied locale is used to format the text .
+3912	indicates whether or not this field is an enumeration constant .
+6274	method to serialize a path . this method will iterate through the iterator passed in , and write out the base components of the path to the objectoutput
+3826	print a debug message on debug stream associated with this interpreter only if debugging is turned on .
+6730	given a version string , it compares against the current fro st wire version . if fro st wire is old , it will return true . a valid version string looks like this : " major . release . service " 4 . 13 . 1 4 . 13 . 2 . . . 4 . 13 . 134 it will compare each number of the current version to the version published by the update message .
+715	attempts to restore accessibility focus to the specified date .
+5213	defines if the class should be loaded with our class loader .
+6246	sets the reference time and returns the amount of time between now and the previous time the reference time was set . this is largely an optimization to avoid reading the monotonic clock twice , as well as to avoid losing track of nanoseconds between the read and update .
+6325	initialize the ldap group object by using the configuration information passed by the policy framework .
+2492	str rep of team , no bo wl results
+8115	ensures that our long [ ] can hold at least 64 desired long count bits .
+606	makes a date from separate strings for month , day , year , hour , minute , and second .
+8229	a query method that answers of the given 15 digit code applies to this symbol part .
+5439	changes to the previous window start time .
+1644	draws a domain crosshair .
+7213	all successful responses are returned without any process . ( not a 5xx server error or a 4xx client error )
+1633	resets the cursor and clears the current results .
+8617	util method to write an attribute with the ns prefix
+7486	creates the file chooser the user will use to save / load files with .
+251	prints the solution to the result file .
+2361	read information object and return pointer to correct place
+6717	this is used for internal remove calls because we only want to count external calls
+2529	creates an array of shapes representing the six sides of a block in a horizontal stack .
+1225	the introduction of i allocation contexts has added some complexity to the older concept of a free list . with allocation contexts it is possibly for allocator to have free space available but this being restricted to a specific allocation context . in addition to the standard free allocation search we want to add a " density " restriction for small slots to encourage the aggregation of writes ( by increasing the likelihood of sibling slot allocation ) . there is some " do what i mean " complexity here , with difficulty in determining a good rule to identify an initial allocation point . there is a danger of significantly reducing the allocation efficiency of short transactions if we too na ively check committed bit density . we should only do this when identifying the initial allocation , and when the alloc index is incremented .
+7692	checks whether the player has completed the given quest or not .
+5546	closes all unused pooled connections . exceptions while closing are written to the log stream ( if set ) .
+6512	emits a simple element ( without child elements ) .
+1315	adds the card to the view
+5383	merge a and b .
+6226	add the given attributes to the currently collected ones . these attributes are always added , regardless of whether on not an element is currently open .
+5188	returns the ascii characters up to but not including the next " \ r \ n " , or " \ n " .
+7994	report the start of a cdata section .
+588	returns whether the given server can be connected to .
+1121	used to communicate a progress update between a plugin tool and the main whitebox user interface .
+3846	constructs a new json exception with the specified cause .
+4708	handle an extension function .
+1480	bind some uris to a string .
+7110	returns a list of all zip ' s and jars contained in the given directories .
+1646	the global method parse float , as per ecma - 262 15 . 1 . 2 . 3 .
+7269	returns the best parse , the one with maximum expected labelled recall . assumes that the max c arrays have been filled .
+2725	instantiates a new feature type constraint model .
+4906	divide : local variable exponent is less than zero
+474	submits task to execution pool
+753	takes a string of file . separator separated paths , and returns an array of strings instead .
+5314	creates a new logwriter and adds it to the config properties . the config can then be used to connect to distributed system , thus providing early access to the logwriter before connecting . this call does not connect to the distributed system . it simply creates and returns the logwriter that will eventually be used by the distributed system that connects using config .
+919	has a service , which may be delegated
+4806	this method will return to pag eno for a line item from the last mb entry .
+5873	obtains the cosine of this angle .
+6141	answers whether this class is an immediate descendant ( as subclass or as an implementation of an interface ) of the given class .
+7056	returns the next available reference from the queue , removing it in the process . waits for a reference to become available or the given timeout period to elapse , whichever happens first .
+2385	creates a new instance with the values of the given token position .
+4000	removes the specified item from this list model .
+6751	get the total size of the paths .
+2950	use to show address location pin on map .
+2785	create a new web ster . the port is determined by the org . jini . rio . tools . web ster . port system property . if the org . jini . rio . tools . web ster . port system property does not exist , an anony no us port will be allocated .
+2868	analyzes a component samplemodel to determine if it can function as a pixel interleav ed samplemodel . in order to do so , it must use only bank 0 of its databuffer , and the data offsets must span a range of less than pixel stride . these properties are trivially true for a 1 - ban ded samplemodel .
+1293	write a message to the progress stream if a log file exists .
+3945	returns the result of applying the given function to the specified column
+8153	lays out the panel . . .
+2344	an aes key derived from a base 64 encoded key . this does not generate the key . it ' s not random or a p be key .
+3804	this method was generated by mybatis generator . this method corresponds to the database table role
+7555	continues a multiple - part encryption / decryption operation . the data is encrypted or decrypted , depending on how this cipher was initialized .
+4161	runs the tokenizer over the given string and returns the generated tokens .
+7529	sorts an array of strings , returning a new array with the sorted items . the original array is left untouched .
+4183	set the throwable and abort run loop . the throwable will be thrown from the run loop thread
+153	gwt maven plugin 1 test launch
+7622	returns true to indicate the window is empty , or false if the view is not empty .
+4712	when connected , subscribe to the necessary channels to get properly notified
+2588	executes a process and returns an object representing it .
+1210	determine if the response to a given ldap extended operation ( specified by oid ) should be treated as a string . the default is binary .
+7237	converts a byte array to a bin hex string
+5661	query a given index for matching entries . assumes the sender has opened the index and will close when finished .
+4901	append a path segment
+6951	remove the indicated weave on next installation
+4097	assigns the service and service related attributes to the identity . this method is only valid for am identity object of type user .
+7484	adds the specified sorting fields .
+4949	add an address to this bucket .
+3263	create and persist database entities required for testing .
+6302	reads the value for an " extra " parameter . it will handle a single unquoted word ( which is technically illegal , but we ' ll allow it ) , a single quoted string , or an open parenthesis followed by a space - delimited set of quoted strings or unquoted words followed by a close parenthesis .
+7916	choose random numbers from 0 to n - 1
+1747	this should not be called by clients . this method is called indirectly via a client call to shard . get commit ted command ( ) , when the requested index has not been committed yet . after this call , this command object can be used again .
+3886	removes a previously added con en ct able device listener from the list of listeners for this connectable device .
+6248	invoked when an action occurs
+4847	new long array : create a new long array
+4837	convert a list to json text . the result is a json array . if this list is also a jsonaware , jsonaware specific behaviours will be omitted at this top level .
+359	this method registers the default prefixes .
+4497	commits or release the that currently being considered for discard . this function also triggers the associated animations .
+132	return the next calendar in the iteration
+803	return true if this class is a system class defined in android . jar .
+8138	notify all listenerlist that have registered interest for notification on this event type . note : this method only fires an event , if the invalidated area is outside of the canvas bounds .
+4689	a method that returns a string representation of a validat ione ven thandler impl object
+5772	prints out a field summary
+3588	remove the last extension of file . if no extension found then return the input file e . g . a . out . log - - > a . out a . diff - - > a
+3115	for multi line records this method combines the current result with the result from previous read ( s ) .
+4106	drop the named index
+2240	rich text format encoding ( does not replace line breaks ) . escapes all ' \ ' ' ' ' ' .
+1591	gets a list of minimum and maximum x and y dimensions for the glyphs in the font . this is based on the reported min and max values for each glyph and not on the actual outline sizes .
+645	create a union pathiterator object , including creation of location path iterators from the opcode list , and call back into the compiler to create predicate expressions .
+5061	unset the ' down ' point and change the curso e back to the system default cursor
+7222	starts a bridge server on the given port , using the given deserializ e values and notify by subscription to serve up the given region .
+546	append css definition to a stream
+2153	check if the given column is a natural join column .
+1476	reads all remaining lines from this input stream and returns them as an array of strings .
+4835	transitions to terminated state if either ( shutdown and pool and queue empty ) or ( stop and pool empty ) . if otherwise eligible to terminate but worker count is nonzero , interrupts an idle worker to ensure that shutdown signals propagate . this method must be called following any action that might make termination possible - - reducing worker count or removing tasks from the queue during shutdown . the method is non - private to allow access from scheduled threadpoolexecutor .
+5352	description of the method
+2877	returns an enumeration describing the available options .
+3289	returns the endpoint string
+2165	adds a child to this node . used solely by the native code .
+5994	convert mnemonic word list to seed .
+8697	begin a pre cache cycle .
+8221	disposes the native memory associated with the given native graphics config info pointer on the single queue flushing thread .
+4465	returns the semi deviation , defined as the square root of the semi variance .
+2695	is the recorded layout id
+4210	add a new value to the array map .
+7894	calculates the square of the distance between the two specified colors .
+5549	calculate the clustering of the hits
+1886	adds the volumes , initiators , and targets to an exportmask .
+7673	returns a descriptor like " ( ljava / lang / class ; [ i ) ljava / lang / object ; " .
+1233	is this property a solr - standard property , or is it an extra property defined per - core by the user ?
+2306	attempt to redo the last action .
+3696	links node as last element , or returns false if full .
+6511	invoked when a mouse button has been pressed on a component .
+5992	operates on all individuals , removes the original individuals and adds the new ones .
+1479	include / exclude refactoring change from refactoring
+6464	starts a new track .
+228	verifies the case when the first digits of the dividend and divisor equal .
+4332	rather than attempting to process the uri string in a linear fashion , this implementation works its way from outside - in
+2024	adds an algorithm with statist ically similar performance to the current algorithm .
+6038	call the trigger class if required . this method does nothing if the trigger is not defined for the given action . this method is called before or after any rows have been processed , once for each statement .
+4295	returns the username of the user that created this build .
+6242	performs a sort on the section of the array between the given indices using a mergesort with exponential search algorithm ( in which the merge is performed by exponential search ) . n log ( n ) performance is guaranteed and in the average case it will be faster then any mergesort in which the merge is performed by linear search .
+6086	fill in definition of class ` c ' from corresponding class or source file .
+1775	copies the value of the username attribute from the specified attributevalue .
+3830	dispatches a request to the next chain of middleware .
+7724	creates an instances object with the attributes we will be calculating .
+410	returns true if this thread is executing inside a scope . use this method to check if calling a variant of pop scope is safe .
+5374	shif tright a negative number ; shift distance is not multiple of 32 ; shifted bits are not zeroes .
+3626	flush will be called in synchronous way like stor m bolt . execute ( ) as storm output collector is not thread - safe
+1035	checks whether mandatory log dir is given
+7606	set the key , value binding in the engine scope of the context .
+4951	returns whether the given size is within the blacklist string .
+6689	todo need think about if multi - put is necessary , by checking if auto flush works
+1911	generate new token for given user .
+2290	checks if a specific key was changed and not yet saved to the database .
+742	returns true if the str is empty , false otherwise .
+609	transforms the specified data using the underlying transform algorithm .
+4986	filters the target port list from the response based on the varray tagging .
+8071	determines and returns the conservative approximation for the knn distances of this node as the maximum of the conservative approximat ions of all entries .
+1902	counts the number of checked ranges that overlaps with the zon er anges . a bounds object in checked ranges who doesn ' t overlap with zon er anges are not counted .
+1592	decides if given x - coordinate in screen space needs to be interpreted as " within " the normalized thumb x - coordinate .
+2222	if the path does not exist on the filesystem , it is resolved as a resource .
+6367	compares this parser notice to another .
+7432	write log in file
+6078	adds the tree update .
+6866	reads a " int " value from an inputstream . the value is converted to the opposed endian system while reading .
+2531	called when an environment ties a binary definition to a declaration . at this point , auxiliary definitions may be loaded .
+1622	builds and initializes the client .
+8017	checks if is solaris .
+6686	fills the list from top to bottom , starting with m first position
+4583	after the screen rotates , this method will be called to refresh the list of grid views
+536	adds protocol message to the list
+6070	returns whether file uploads can be used on the current device ( generally all platform versions except for 4 . 4 ) on android 4 . 4 . 3 / 4 . 4 . 4 , file uploads may be possible but will come with a wrong mime type
+3559	indicates if this composite contains a tuple set with the given name .
+7264	a callback used by gemfire data serialization mechanism to write to a stream .
+7285	this method deals with the fact , that the decoding process doesn ' t always yield a single most likely value . the current error correction implementation doesn ' t deal with er as ures very well , so it ' s better to provide a value for these ambiguous codewords instead of treating it as an erasure . the problem is that we don ' t know which of the ambiguous values to choose . we try decode using the first value , and if that fails , we use another of the ambiguous values and try to decode again . this usually only happens on very hard to read and decode barcodes , so decoding the normal barcodes is not affected by this .
+3868	wsp type decoder test , decode om a content type
+5942	adds a marker to this log with the specified name .
+1627	re news a lease for an additional period of time ( specified in milliseconds ) for a registered entry in this lease manager . this duration is not added to the original lease , but is used to determine a new expiration time for the existing lease . if the renewal is granted this is reflected in value returned by get expiration . if the renewal fails , the lease is left intact for the same duration that was in force prior to the call to renew .
+6018	create a horizontal bar chart with sample data in the range - 3 to + 3 .
+5876	a static method to write a line to a buffe redo utputstream and then pass the line to the log method of the supplied pircbot instance .
+992	writes a portion of an array of characters .
+6523	writes a string field value .
+4520	adds a class and all of the types it exposes . the cause of the class being exposed is given , and the cause of everything within the class is that class itself .
+3109	populate the hierarchy with the indexes this method is not thread - safe
+2001	expands the digit string of an ordinal number .
+7450	construct a new instance .
+1501	returns true if the this map setting has the same map generator settings and size as the parameter .
+349	return the taken image from the gallery to the calling activity . this method returns to the calling activity .
+3990	multiply two numbers of 4 bytes length .
